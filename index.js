@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 //déclarer les modules pr qu'il trouve les fonctions
 //require appele les extensions installées dans le terminal
 const { getCode } = require('country-list');

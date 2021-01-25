@@ -1,0 +1,31 @@
+{
+  "name": "@magaligarot/holidatestest",
+  "version": "1.0.0",
+  "description": "day off",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(Day OFF);"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MagaliGarot/node-CLI.git"
+  },
+  "keywords": [
+    "day",
+    "off"
+  ],
+  "author": "Magali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MagaliGarot/node-CLI/issues"
+  },
+  "homepage": "https://github.com/MagaliGarot/node-CLI#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.0",
+    "country-list": "^2.2.0",
+    "express": "^4.17.1",
+    "figlet": "^1.5.0",
+    "ora": "^5.3.0"
+  }
+}

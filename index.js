@@ -36,7 +36,7 @@ axios.get(URLApi)
     });
 })
 
-//reccourci -> librairie de la requete -> httpRequest.open('GET', '/demo.php?city=montpellier', true)
+//raccourci -> librairie de la requete -> httpRequest.open('GET', '/demo.php?city=montpellier', true)
 // axios.get("https://date.nager.at/Api/v2/PublicHolidays/2021/BE");
 //axios prends les valeurs de ce doc et les retournes -> https://date.nager.at/api/v2/PublicHolidays/2002/BE
 

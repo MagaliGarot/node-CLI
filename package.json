@@ -10,10 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/MagaliGarot/node-CLI.git"
   },
-  "keywords": [
-    "day",
-    "off"
-  ],
   "author": "Magali",
   "license": "ISC",
   "bugs": {

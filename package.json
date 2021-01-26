@@ -1,6 +1,6 @@
 {
-  "name": "@magaligarot/holidatestest",
-  "version": "1.0.0",
+  "name": "@magaligarot/dayoffstest",
+  "version": "1.0.1",
   "description": "day off",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "dependencies": {
     "axios": "^0.21.1",
     "country-list": "^2.2.0"
+  },
+  "bin": {
+    "dayofftest": "./index.js"
   }
 }
